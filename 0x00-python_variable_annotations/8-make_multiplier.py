@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """ Write a function that takes a float as arg and return float"""
 from typing return Callable
 

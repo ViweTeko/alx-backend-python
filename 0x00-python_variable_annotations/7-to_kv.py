@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """ Write a function that takes str and int or float and return tuple"""
 from typing import Union, Tuple
 
