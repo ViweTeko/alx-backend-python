@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """ Continuation of previous script"""
 import time
 import asyncio
